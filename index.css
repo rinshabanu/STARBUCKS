@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.imglogo{
+    width: 120px;
+    height: 80px;
+}
+.navbar{
+background-color:bisque;
+  font-family: "Baloo Paaji 2", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 500;
+  color: #000;
+  
+}
+
+.nav-link:hover {
+ color: green;
+    
+}
+
+
+.btn1{
+
+    background-color:white;
+    color: black;
+    border-radius: 25px;
+    border-color: black;
+    border: 2.5px;
+
+
+}
+.btn1:hover {
+    background-color: grey; 
+
+
+}
+.btn2{
+
+    background-color:black;
+    color:white;
+    border-radius: 25px;
+    border-color: black;
+    border: 1.5px;
+
+
+}
+.btn2:hover {
+    background-color:grey; 
+}
+
+.one{
+    height: 500px;
+}
+.poster1{
+    height: 100%;
+    width: 100%;
+}
+.text{
+    background-color: #ecbb4d;
+    
+}
+.text1{
+text-align: center;
+padding-top: 200px;
+}
+.text1 h1{
+    font: size 80px;
+}
+.text1 p{
+font-size: 25px;
+}
+.text1 button{
+    background-color: #ecbb4d;
+    color:black; 
+    border-color: #000;
+    border-radius: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 16px; 
+    font-weight: 500;
+}
+.two{
+    height: 400px;
+}
